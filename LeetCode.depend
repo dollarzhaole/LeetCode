@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1374495628 source:e:\coding\leetcode\longest palindromic substring.cpp
+	<iostream>
+	<string>
+	<cstring>
+	<algorithm>
+
+1374504429 source:e:\coding\leetcode\reverse integer.cpp
+	<iostream>
+	<string>
+	<cstring>
+	<algorithm>
+
+1374548884 source:e:\coding\leetcode\string to integer (atoi).cpp
+	<iostream>
+	<string>
+	<cstring>
+	<algorithm>
+	<cmath>
+
+1374551095 source:e:\coding\leetcode\palindrome number.cpp
+	<iostream>
+	<string>
+	<cstring>
+	<algorithm>
+
