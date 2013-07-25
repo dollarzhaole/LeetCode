@@ -31,7 +31,7 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
-		<Unit filename="Longest Common Prefix.cpp">
+		<Unit filename="3Sum.cpp">
 			<Option target="Debug" />
 		</Unit>
 		<Extensions>
