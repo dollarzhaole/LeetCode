@@ -56,3 +56,33 @@
 	<cstring>
 	<algorithm>
 
+1375714666 source:e:\coding\interview\leetcode\substring with concatenation of all words.cpp
+	<iostream>
+	<string>
+	<cstring>
+	<algorithm>
+	<map>
+	<vector>
+
+1375753990 source:e:\coding\interview\leetcode\longest valid parentheses.cpp
+	<iostream>
+	<string>
+	<cstring>
+	<algorithm>
+	<vector>
+	<stack>
+
+1375760961 source:e:\coding\interview\leetcode\search in rotated sorted array.cpp
+	<iostream>
+	<string>
+	<cstring>
+	<algorithm>
+	<vector>
+
+1375790698 source:e:\coding\interview\leetcode\search for a range.cpp
+	<iostream>
+	<string>
+	<cstring>
+	<algorithm>
+	<vector>
+

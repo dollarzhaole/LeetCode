@@ -31,7 +31,7 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
-		<Unit filename="Swap Nodes in Pairs.cpp">
+		<Unit filename="Search Insert Position.cpp">
 			<Option target="Debug" />
 		</Unit>
 		<Extensions>
