@@ -31,7 +31,7 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
-		<Unit filename="Search Insert Position.cpp">
+		<Unit filename="Spiral Matrix.cpp">
 			<Option target="Debug" />
 		</Unit>
 		<Extensions>

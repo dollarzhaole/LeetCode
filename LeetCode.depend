@@ -86,3 +86,46 @@
 	<algorithm>
 	<vector>
 
+1375845157 source:e:\coding\interview\leetcode\count and say.cpp
+	<iostream>
+	<string>
+	<cstring>
+	<algorithm>
+	<vector>
+	<sstream>
+
+1376025216 source:e:\coding\interview\leetcode\multiply strings.cpp
+	<iostream>
+	<string>
+	<cstring>
+	<algorithm>
+	<vector>
+
+1376444483 source:e:\coding\interview\leetcode\permutations.cpp
+	<iostream>
+	<string>
+	<cstring>
+	<algorithm>
+	<vector>
+
+1377001642 source:e:\coding\interview\leetcode\pow(x, n).cpp
+	<iostream>
+	<string>
+	<cstring>
+	<algorithm>
+	<vector>
+
+1377009883 source:e:\coding\interview\leetcode\maximum subarray.cpp
+	<iostream>
+	<string>
+	<cstring>
+	<algorithm>
+	<vector>
+
+1377835144 source:e:\coding\interview\leetcode\spiral matrix.cpp
+	<iostream>
+	<string>
+	<cstring>
+	<algorithm>
+	<vector>
+
